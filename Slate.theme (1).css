@@ -27,6 +27,10 @@
   --server-icon-size: 35px;
   --server-icon-spacing: 8px;
   --server-container-padding: 10px;
+  
+  	--font-family-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+	--font-family-monospace: Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 
 /*
